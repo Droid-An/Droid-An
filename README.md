@@ -1,8 +1,8 @@
 ## Hi there 👋
-- I'm software engineer
-- Currently I'm doing a AI review prototype for CYF
-- My main languages are: JavaScript, Python and a bit of TypeScript
-- I'm active leaner and curious coder
+- I'm a software engineer
+- Currently I'm doing an AI review prototype for CYF
+- My main languages are TypeScript and Python
+- I'm active learner and curious coder
 
 <!--
 **Droid-An/Droid-An** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
