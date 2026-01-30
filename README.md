@@ -1,7 +1,7 @@
 ## Hi there 👋
 - I'm a software engineer
 - Currently I'm doing an AI review prototype for CYF
-- My main languages are TypeScript and Python
+- My main languages are JavaScript, TypeScript and Python
 - I'm active learner and curious coder
 
 <!--
